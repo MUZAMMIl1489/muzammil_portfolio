@@ -3,7 +3,7 @@ Aspiring Data Analyst | Power BI | SQL | Excel | Tableau
 
 ---
 
-## 🌟 Professional Summary  
+## 🌟 About me
 I’m a **Data Analyst** with hands-on experience in building dashboards, analyzing business datasets, and presenting insights that support better decision-making.  
 Through academic and practice projects, I applied **Excel, SQL, Power BI, and Tableau** to analyze sales, logistics, and marketing data.  
 
@@ -34,17 +34,17 @@ Through academic and practice projects, I applied **Excel, SQL, Power BI, and Ta
 ---
 
 ## 🎓 Education  
-- **B.Com (Commerce & Management)** – Indira Gandhi National Open University *(2024 – 2026)*  
+- **B.Com (Commerce & Management)** – Indira Gandhi National Open University                          *(2024 – 2026)*  
 - **Cost and Management Accounting (CMA)** – Institute of Cost Accountants of India  
   - Foundation Completed (2024); Intermediate Ongoing  
 
 ---
 
 ## 📜 Certifications  
-- ✅ Data Analytics with Excel (Rows & Columns, 2025)  
-- ✅ Power BI for Data Analysis (Rows & Columns, 2025)  
-- ✅ SQL for Data Analysis (Rows & Columns, 2025)  
-- ✅ Tableau Basics (Rows & Columns, 2025)  
+- ✅ Data Analytics with Excel     (Rows & Columns, 2025)  
+- ✅ Power BI for Data Analysis    (Rows & Columns, 2025)  
+- ✅ SQL for Data Analysis         (Rows & Columns, 2025)  
+- ✅ Tableau Basics                (Rows & Columns, 2025)  
 
 ---
 
@@ -65,7 +65,7 @@ Through academic and practice projects, I applied **Excel, SQL, Power BI, and Ta
 - 📞 90741-29443  
 - 📍 Areekode, Kozhikode, Kerala  
 - ⬇️ [Download my Resume](/assets/docs/Muzammil_Data_Analyst.pdf)  
-- 🌐 [LinkedIn](https://www.linkedin.com/) *(add your profile link here)*  
+- 🌐 [LinkedIn](https://www.linkedin.com/) *(www.linkedin.com/in/muhammed-muzammil-vp-aa90a937a)*  
 
 ---
 
